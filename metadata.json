@@ -1,0 +1,6 @@
+{
+  "name": "ReflectAI",
+  "description": "Private AI Journal & Reflection Companion with secure multi-turn Gemini reflections, theme discovery, and action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
